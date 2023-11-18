@@ -1,0 +1,3 @@
+Модуль 1. Вступ до Web-технології. Структура HTML. HTML-форматування.здано 18,11,23
+	HW_HTML_text_formatting_11,11,2023 (task1,2,3)
+	Practice_HTML_text_formating_11,11,2023 (task3)
