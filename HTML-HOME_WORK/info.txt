@@ -10,4 +10,7 @@
 Тема: Блокова верстка сайту. Flex. здано 21,11,23
 	HW_Block_layout_15,11,2023
 
-
+Тема: Блокова верстка сайту.Position.здано 25,11,23
+	Module_Block_layout_Position_media_quires_INSTAGRAM_JAPAN_22,11,2023:
+	- HW_Instagram
+	-Practice_Japan
