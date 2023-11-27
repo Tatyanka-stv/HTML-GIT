@@ -1,0 +1,111 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.container { /*все окно браузера*/
+    width:95vw;
+   /* height: 100vh;*/
+    z-index: 1;
+}
+/*заголовок меню*/
+.main_title { /*MENU*/
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 4;
+    height: 50px;
+    margin: 20px 0px 0px 20px;
+    font-family: Arial, Helvetica, "Helvetica Neue",sans-serif;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 2px;
+    color: white;
+}
+
+/*перше меню*/
+.navbar { /*контейнер с иконками*/
+    position: fixed;
+    top: 50px;
+    left: 0;
+    z-index: 3;
+    width: 80px;
+    height: 325px;
+    background: grey;
+    display: flex;
+    flex-direction: column;
+}
+
+.title_image {
+    height: 30px;  
+    margin: 0px 0px 40px 30px;
+}
+
+/*друге виїджаюче меню*/
+.moving_menu {
+    height: 100vh;
+    padding: 0px 0px 0 50px;
+    position: fixed;
+    background-color: grey;
+    border-right: 7px solid grey;
+    /*прячем меню*/
+    left: -105px;
+    transition: all .2s ease;
+    z-index: 2;
+}
+.moving_menu:hover {
+    left: 0;
+    transition: all .2s ease;
+}
+.container_list_menu {
+    width: 100px;
+    height: 295px;
+    margin-top: 50px;
+    padding-left: 30px;
+    padding-right: 20px;
+    background-color: grey;    
+}
+
+.container_list_menu div {
+    width: 90px;
+    height: 73px;
+    padding-top: 2px;
+}
+.container_list_menu a:hover {
+    border-left: 2px;
+    padding-left: 5px;
+    transition: all .2s ease;
+    background-color: rgb(176, 170, 171);
+}   
+.text_menu {
+    font-family: Arial, Helvetica, "Helvetica Neue",sans-serif;
+    color: white;
+    font-weight: 500;
+    letter-spacing: 2px;
+}    
+
+/*content*/
+.container_content {
+    margin-left: 150px;
+    padding-top: 50px;
+    margin-right: 20px;
+    word-wrap: break-word;
+}
+
+.content_title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+.content-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+

@@ -10,11 +10,20 @@
 Тема: Блокова верстка сайту. Flex. здано 21,11,23
 	HW_Block_layout_15,11,2023
 
-Тема: Блокова верстка сайту.Position.здано 25,11,23
+Тема: Модуль5. Таблиці.
+      Модуль 6. Позиціюванняю Верстка веб-сторінок блоками. -здано 27,11,23
+      
+      Module_5,6_Tables,_positioning, _layout_in_blocks_15,11,2023:
+		HW_Tables,_positioning, _layout_in_blocks_15,11,2023 (task1, task2, task3)
+		Practice_Tables,_positioning, _layout_in_blocks_15,11,2023
+
+
+Тема: Модуль 10: Тема: Формию Фрейми.здано 26,11,23
+	Module_10_Forms_Frames_18,11,2023 (task1,2,3)
+
+Тема: Блокова верстка сайту.Position. Media quires. - здано 25,11,23
 	Module_Block_layout_Position_media_quires_INSTAGRAM_JAPAN_22,11,2023:
 	- HW_Instagram
-	-Practice_Japan
+	- Practice_Japan
 
 
-ТМодуль 10: Тема: Формию Фрейми.здано 26,11,23
-	Module_10_Forms_Frames_18,11,2023 (task1,2,3)
